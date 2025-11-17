@@ -34,7 +34,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-plain.svg" title="ClickHouse" alt="ClickHouse" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-00A4EF?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="max-width: 100%;">
 </div>
 
 ## Мои проекты
+
+
+
 

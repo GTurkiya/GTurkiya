@@ -38,7 +38,7 @@
   <h3>Инструменты и технологии</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
   <!-- Анализ данных -->
-  <img src="https://img.shields.io/badge/Анализ_данных-2E8B57?style=for-the-badge&logo=analytics&logoColor=white" alt="Анализ данных" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Анализ_данных-000?style=for-the-badge&logo=analytics&logoColor=white" alt="Анализ данных" style="max-width: 100%;">
 
 
   <!-- Python -->
@@ -55,8 +55,6 @@
   <!-- Matplotlib -->
   <img src="https://img.shields.io/badge/Matplotlib-FF9800?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="max-width: 100%;">
 
-  <!-- Seaborn -->
-  <img src="https://img.shields.io/badge/Seaborn-20608B?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" style="max-width: 100%;">
 
   <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-00A4EF?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="max-width: 100%;">
@@ -74,17 +72,7 @@
 
   <!-- Redash -->
   <img src="https://img.shields.io/badge/Redash-E44D26?style=for-the-badge&logo=redash&logoColor=white" alt="Redash" style="max-width: 100%;">
-
-  <!-- Математическая статистика -->
-  <img src="https://img.shields.io/badge/Математическая_статистика-4CAF50?style=for-the-badge&logo=chart-line&logoColor=white" alt="Математическая статистика" style="max-width: 100%;">
-
-  <!-- A/B-тесты -->
-  <img src="https://img.shields.io/badge/A_B-тесты-673AB7?style=for-the-badge&logo=test-tube&logoColor=white" alt="A/B-тесты" style="max-width: 100%;">
-
-
-  <!-- Временные ряды -->
-  <img src="https://img.shields.io/badge/Временные_ряды-3F51B5?style=for-the-badge&logo=calendar&logoColor=white" alt="Временные ряды" style="max-width: 100%;">
-
+  
 
   <!-- Airflow -->
   <img src="https://img.shields.io/badge/Airflow-007A87?style=for-the-badge&logo=airflow&logoColor=white" alt="Airflow" style="max-width: 100%;">
@@ -92,9 +80,6 @@
 
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;">
-
-  <!-- Классическое машинное обучение -->
-  <img src="https://img.shields.io/badge/Классическое_машинное_обучение-9C27B0?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Классическое машинное обучение" style="max-width: 100%;">
 
 
   <!-- Scikit-Learn -->

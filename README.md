@@ -10,8 +10,8 @@
   <a href="https://t.me/Gosha_Turkiya">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://wa.me/79529076307">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  <a href="mailto:georgeturkia@yandex.ru">
+      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=envelope&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 

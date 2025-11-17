@@ -38,7 +38,7 @@
   <h3>Инструменты и технологии</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
   <!-- Анализ данных -->
-  <img src="https://img.shields.io/badge/Анализ_данных-000?style=for-the-badge&logo=analytics&logoColor=white" alt="Анализ данных" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Анализ_данных-000?style=for-the-badge&logo=analytics&logoColor=white&bgColor=white" alt="Анализ данных" style="max-width: 100%;">
 
 
   <!-- Python -->

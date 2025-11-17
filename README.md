@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:georgeturkia@yandex.ru">
-      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=envelope&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=envelope&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 

@@ -7,10 +7,10 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="https://t.me/Gosha_Turkiya">
+  <a href="https://t.me/Gosha_Turkiya" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:georgeturkia@yandex.ru">
+  <a href="mailto:georgeturkia@yandex.ru" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=envelope&logoColor=white" alt="Email Badge"/>
   </a>
 </div>

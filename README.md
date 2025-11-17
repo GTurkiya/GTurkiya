@@ -35,76 +35,40 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
 
-  <h3>Инструменты и технологии</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-  <!-- Анализ данных -->
-  <img src="https://img.shields.io/badge/Анализ_данных-000000?style=flat&logo=analytics&bgColor=F0F0F0" alt="Анализ данных" style="max-width: 100%;">
-
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&bgColor=F0F0F0" alt="Python" style="max-width: 100%;">
-
-  <!-- Pandas -->
-  <img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&bgColor=F0F0F0" alt="Pandas" style="max-width: 100%;">
-
-
-  <!-- NumPy -->
-  <img src="https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&bgColor=F0F0F0" alt="NumPy" style="max-width: 100%;">
-
-
-  <!-- Matplotlib -->
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&bgColor=F0F0F0" alt="Matplotlib" style="max-width: 100%;">
-
-
-  <!-- Seaborn -->
-  <img src="https://img.shields.io/badge/Seaborn-000000?style=flat&logo=seaborn&bgColor=F0F0F0" alt="Seaborn" style="max-width: 100%;">
-
-
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=sql&bgColor=F0F0F0" alt="SQL" style="max-width: 100%;">
-
-
-  <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&bgColor=F0F0F0" alt="PostgreSQL" style="max-width: 100%;">
-
-
-  <!-- ClickHouse -->
-  <img src="https://img.shields.io/badge/ClickHouse-000000?style=flat&logo=clickhouse&bgColor=F0F0F0" alt="ClickHouse" style="max-width: 100%;">
-
-
-  <!-- Superset -->
-  <img src="https://img.shields.io/badge/Apache_Superset-000000?style=flat&logo=apache&bgColor=F0F0F0" alt="Apache Superset" style="max-width: 100%;">
-
-  <!-- Redash -->
-  <img src="https://img.shields.io/badge/Redash-000000?style=flat&logo=redash&bgColor=F0F0F0" alt="Redash" style="max-width: 100%;">
-
-
-  <!-- Математическая статистика -->
-  <img src="https://img.shields.io/badge/Математическая_статистика-000000?style=flat&logo=chart-line&bgColor=F0F0F0" alt="Математическая статистика" style="max-width: 100%;">
-
-
-  <!-- A/B-тесты -->
-  <img src="https://img.shields.io/badge/A_B-тесты-000000?style=flat&logo=test-tube&bgColor=F0F0F0" alt="A/B-тесты" style="max-width: 100%;">
-
-
-  <!-- Временные ряды -->
-  <img src="https://img.shields.io/badge/Временные_ряды-000000?style=flat&logo=calendar&bgColor=F0F0F0" alt="Временные ряды" style="max-width: 100%;">
-
-
-  <!-- Airflow -->
-  <img src="https://img.shields.io/badge/Airflow-000000?style=flat&logo=airflow&bgColor=F0F0F0" alt="Airflow" style="max-width: 100%;">
-
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&bgColor=F0F0F0" alt="Git" style="max-width: 100%;">
-
-
-  <!-- Классическое машинное обучение -->
-  <img src="https://img.shields.io/badge/Классическое_машинное_обучение-000000?style=flat&logo=machine-learning&bgColor=F0F0F0" alt="Классическое машинное обучение" style="max-width: 100%;">
-
-  <!-- Scikit-Learn -->
-  <img src="https://img.shields.io/badge/Scikit-learn-000000?style=flat&logo=scikit-learn&bgColor=F0F0F0" alt="Scikit-learn" style="max-width: 100%;">
-
-  <!-- CatBoost -->
-  <img src="https://img.shields.io/badge/CatBoost-000000?style=flat&logo=catboost&bgColor=F0F0F0" alt="CatBoost" style="max-width: 100%;">
+  <div align="center" dir="auto">
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9" alt="Python" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/PyTorch-0b0038?style=for-the-badge&logo=PyTorch&logoColor=d84f35" alt="PyTorch" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/NumPy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc" alt="NumPy" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38" alt="scikit-learn" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/FastAPI-0b0038?style=for-the-badge&logo=FastAPI&logoColor=4c74cc" alt="FastAPI" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/SQLAlchemy-0b0038?style=for-the-badge&logo=SQLAlchemy&logoColor=white" alt="SQLAlchemy" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d" alt="Apache Airflow" style="max-width: 100%;">
+  </a>
+  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Linux-0b0038?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" style="max-width: 100%;">
+  </a>
 </div>
 
 </div>

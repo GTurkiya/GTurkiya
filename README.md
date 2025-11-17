@@ -29,12 +29,12 @@
   <img src="https://img.shields.io/badge/NumPy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc" alt="NumPy" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Matplotlib-0b0038?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Superset-0b0038?style=for-the-badge&logo=apache&logoColor=white" alt="Superset" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=white" alt="Redash" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=E34234" alt="Redash" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/SQL-0b0038?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=FFD700" alt="ClickHouse" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Airflow-0b0038?style=for-the-badge&logo=apache%20airflow&logoColor=e4351d" alt="Airflow" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=git&logoColor=FF6347" alt="Git" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38" alt="Scikit-learn" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/CatBoost-0b0038?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost" style="max-width: 100%;">
 

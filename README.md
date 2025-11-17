@@ -40,53 +40,70 @@
   <!-- Анализ данных -->
   <img src="https://img.shields.io/badge/Анализ_данных-000?style=for-the-badge&logo=analytics&logoColor=white&bgColor=white" alt="Анализ данных" style="max-width: 100%;">
 
-
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="max-width: 100%;">
-
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white&bgColor=white" alt="Python" style="max-width: 100%;">
 
   <!-- Pandas -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="max-width: 100%;">
-
+  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white&bgColor=white" alt="Pandas" style="max-width: 100%;">
 
   <!-- Numpy -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=white&bgColor=white" alt="NumPy" style="max-width: 100%;">
 
   <!-- Matplotlib -->
-  <img src="https://img.shields.io/badge/Matplotlib-FF9800?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib&logoColor=white&bgColor=white" alt="Matplotlib" style="max-width: 100%;">
+
+
+  <!-- Seaborn -->
+  <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=seaborn&logoColor=white&bgColor=white" alt="Seaborn" style="max-width: 100%;">
 
 
   <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-00A4EF?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=white&bgColor=white" alt="SQL" style="max-width: 100%;">
 
   <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%;">
-
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white&bgColor=white" alt="PostgreSQL" style="max-width: 100%;">
 
   <!-- ClickHouse -->
-  <img src="https://img.shields.io/badge/ClickHouse-F5A623?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/ClickHouse-000?style=for-the-badge&logo=clickhouse&logoColor=white&bgColor=white" alt="ClickHouse" style="max-width: 100%;">
 
 
   <!-- Superset -->
-  <img src="https://img.shields.io/badge/Apache_Superset-FF9900?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Superset" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Apache_Superset-000?style=for-the-badge&logo=apache&logoColor=white&bgColor=white" alt="Apache Superset" style="max-width: 100%;">
+
 
   <!-- Redash -->
-  <img src="https://img.shields.io/badge/Redash-E44D26?style=for-the-badge&logo=redash&logoColor=white" alt="Redash" style="max-width: 100%;">
-  
+  <img src="https://img.shields.io/badge/Redash-000?style=for-the-badge&logo=redash&logoColor=white&bgColor=white" alt="Redash" style="max-width: 100%;">
+
+  <!-- Математическая статистика -->
+  <img src="https://img.shields.io/badge/Математическая_статистика-000?style=for-the-badge&logo=chart-line&logoColor=white&bgColor=white" alt="Математическая статистика" style="max-width: 100%;">
+
+
+  <!-- A/B-тесты -->
+  <img src="https://img.shields.io/badge/A_B-тесты-000?style=for-the-badge&logo=test-tube&logoColor=white&bgColor=white" alt="A/B-тесты" style="max-width: 100%;">
+
+
+  <!-- Временные ряды -->
+  <img src="https://img.shields.io/badge/Временные_ряды-000?style=for-the-badge&logo=calendar&logoColor=white&bgColor=white" alt="Временные ряды" style="max-width: 100%;">
+
 
   <!-- Airflow -->
-  <img src="https://img.shields.io/badge/Airflow-007A87?style=for-the-badge&logo=airflow&logoColor=white" alt="Airflow" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Airflow-000?style=for-the-badge&logo=airflow&logoColor=white&bgColor=white" alt="Airflow" style="max-width: 100%;">
 
 
   <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white&bgColor=white" alt="Git" style="max-width: 100%;">
+
+
+  <!-- Классическое машинное обучение -->
+  <img src="https://img.shields.io/badge/Классическое_машинное_обучение-000?style=for-the-badge&logo=machine-learning&logoColor=white&bgColor=white" alt="Классическое машинное обучение" style="max-width: 100%;">
 
 
   <!-- Scikit-Learn -->
-  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Scikit-learn-000?style=for-the-badge&logo=scikit-learn&logoColor=white&bgColor=white" alt="Scikit-learn" style="max-width: 100%;">
+
 
   <!-- CatBoost -->
-  <img src="https://img.shields.io/badge/CatBoost-1E90FF?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/CatBoost-000?style=for-the-badge&logo=catboost&logoColor=white&bgColor=white" alt="CatBoost" style="max-width: 100%;">
 </div>
 
 </div>

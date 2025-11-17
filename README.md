@@ -36,12 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
 
   <div align="center" dir="auto">
-  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9" alt="Python" style="max-width: 100%;">
-  </a>
-  <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/PyTorch-0b0038?style=for-the-badge&logo=PyTorch&logoColor=d84f35" alt="PyTorch" style="max-width: 100%;">
-  </a>
   <a href="https://shields.io" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%;">
   </a>

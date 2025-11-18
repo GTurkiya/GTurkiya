@@ -32,8 +32,12 @@
   <img src="https://img.shields.io/badge/CatBoost-0b0038?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost" style="max-width: 100%;">
 </div>
 
-#### Мои проекты
+## Мои проекты
 
+| Название проекта | Описание проекта | Стек |
+| --- | --- | --- |
+| Данные 1 | Данные 2 | Данные 3 |
+| Ещё данные | Ещё данные | Ещё данные |
 
 
 

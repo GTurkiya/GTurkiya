@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">
+<h1 align="center" style="border-bottom: none !important;">
   Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=git&logoColor=FF6347" alt="Git" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38" alt="Scikit-learn" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/CatBoost-0b0038?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost" style="max-width: 100%;">
-
 </div>
 
 ## Мои проекты

@@ -2,27 +2,21 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div style="text-align: center; padding: 10px 0;">
-  <span style="font-size: 2em; font-weight: bold;">
-    Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  </span>
-</div>
+<h1 align="center" style="display: block; padding-bottom: 0 !important;">
+  Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-<div id="badges" align="center" style="text-decoration: none; border: none; outline: none;">
+<div id="badges" align="center">
   <a href="https://t.me/Gosha_Turkiya">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:georgeturkia@yandex.ru">
-      <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=envelope&logoColor=white" alt="Email Badge"/>
-  </a>
 </div>
-
 
 ## Обо мне
 Я - аналитик данных. Имею высшее техническое образование, благодаря чему могу применять математический аппарат к задачам анализа данных. Мой исследовательский опыт помогает мне находить инсайты в данных, формулировать гипотезы, проводить эксперименты и интерпретировать их результаты, а также искать причинно-следственные связи и делать выводы. Сейчас я активно развиваюсь в сфере анализа данных: прохожу курсы, делаю проекты и общаюсь с экспертами индустрии.
 
 ## Мой стек
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9" alt="Python" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/NumPy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc" alt="NumPy" style="max-width: 100%;">
@@ -39,6 +33,7 @@
 </div>
 
 #### Мои проекты
+
 
 
 

@@ -4,7 +4,7 @@
 
 
 <!-- <h1 align="center" style="border: none !important; border-bottom: none !important;"> -->
-<h1 style="align: center; display: block; padding-bottom: 0 !important;">
+<h1 align="center" style="display: block; padding-bottom: 0 !important;">
   Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 

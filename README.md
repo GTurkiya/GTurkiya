@@ -7,11 +7,11 @@
   Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<div id="badges" align="center">
-  <a href="https://t.me/Gosha_Turkiya" style="text-decoration: none; border: none; outline: none;">
+<div id="badges" align="center" style="text-decoration: none; border: none; outline: none;">
+  <a href="https://t.me/Gosha_Turkiya">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:georgeturkia@yandex.ru" style="text-decoration: none; border: none; outline: none;">
+  <a href="mailto:georgeturkia@yandex.ru">
       <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=envelope&logoColor=white" alt="Email Badge"/>
   </a>
 </div>

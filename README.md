@@ -2,12 +2,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div style="text-align: center; overflow: hidden;">
-  <h1 style="border-bottom: none !important; padding-bottom: 0;">
+<div style="text-align: center; padding: 10px 0;">
+  <span style="font-size: 2em; font-weight: bold;">
     Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  </h1>
+  </span>
 </div>
-
 
 <div id="badges" align="center" style="text-decoration: none; border: none; outline: none;">
   <a href="https://t.me/Gosha_Turkiya">

@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center" style="border-bottom: none !important;">
+<h1 style="text-align: center; border-bottom: none !important;">
   Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 

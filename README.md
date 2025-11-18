@@ -3,7 +3,16 @@
 </div>
 
 
-<h1 align="center" style="border: none !important; border-bottom: none !important;">
+<!-- <h1 align="center" style="border: none !important; border-bottom: none !important;"> -->
+<h1 style="
+    text-align: center;
+    border: none !important;
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+    position: relative;
+  "
+>
   Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 

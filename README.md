@@ -1,10 +1,10 @@
-<h1 align="center" style="display: block; padding-bottom: 0 !important;">
-  Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<h3 align="center" style="display: block; padding-bottom: 0 !important;">
+  Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h3>
 
 <div id="badges" align="center" style="text-decoration: none; border: none; outline: none;">
   <a href="https://t.me/Gosha_Turkiya">
@@ -16,10 +16,10 @@
 </div>
 
 
-## Обо мне
+#### Обо мне
 Я - аналитик данных. Имею высшее техническое образование, благодаря чему могу применять математический аппарат к задачам анализа данных. Мой исследовательский опыт помогает мне находить инсайты в данных, формулировать гипотезы, проводить эксперименты и интерпретировать их результаты, а также искать причинно-следственные связи и делать выводы. Сейчас я активно развиваюсь в сфере анализа данных: прохожу курсы, делаю проекты и общаюсь с экспертами индустрии.
 
-## Мой стек
+#### Мой стек
 <div>
   <img src="https://img.shields.io/badge/Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9" alt="Python" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="max-width: 100%;">
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/CatBoost-0b0038?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost" style="max-width: 100%;">
 </div>
 
-## Мои проекты
+#### Мои проекты
 
 
 

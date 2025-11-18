@@ -1,11 +1,10 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
 <h1 align="center" style="display: block; padding-bottom: 0 !important;">
   Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <div id="badges" align="center" style="text-decoration: none; border: none; outline: none;">
   <a href="https://t.me/Gosha_Turkiya">

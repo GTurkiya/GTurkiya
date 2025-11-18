@@ -3,17 +3,15 @@
 </div>
 
 
-<!-- <h1 align="center" style="border: none !important; border-bottom: none !important;"> -->
 <h1 align="center" style="display: block; padding-bottom: 0 !important;">
   Всем привет! Меня зовут Георгий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<!-- style="text-decoration: none; border: none; outline: none;" -->
 <div id="badges" align="center">
-  <a href="https://t.me/Gosha_Turkiya" border="none" outline="none">
+  <a href="https://t.me/Gosha_Turkiya" style="text-decoration: none; border: none; outline: none;">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:georgeturkia@yandex.ru" border="none" outline="none">
+  <a href="mailto:georgeturkia@yandex.ru" style="text-decoration: none; border: none; outline: none;">
       <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=envelope&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
